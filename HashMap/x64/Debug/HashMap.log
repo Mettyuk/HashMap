@@ -1,0 +1,3 @@
+﻿  HashMap.cpp
+C:\Home\Learning\Cpp\HashMap\HashMap\HashMap\HashMap.hpp(149,1): warning C4715: 'HashMap<int,int>::end': not all control paths return a value
+  HashMap.vcxproj -> C:\Home\Learning\Cpp\HashMap\HashMap\x64\Debug\HashMap.exe
